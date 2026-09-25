@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://habit777.github.io/Q567.COM/sitemap.xml
